@@ -40,7 +40,7 @@ The Weather App is a simple, interactive web application built using HTML, CSS, 
       Open index.html in your web browser.
       Enter a city name in the input field and click the search button to retrieve the weather data.
 
-   ## How to Use the Project
+## How to Use the Project
 
 1. **Search for Weather:**
    - Enter the name of the city in the input field.
