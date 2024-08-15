@@ -49,3 +49,10 @@ The Weather App is a simple, interactive web application built using HTML, CSS, 
 2. **View Weather Details:**
    - If the city is found, the app will display the temperature, weather description, humidity, and wind speed.
    - If the city is not found, an error message will be displayed.
+
+## File Structure
+
+### Weather App
+- **index.html**: The main HTML file containing the structure of the app.
+- **index.js**: The JavaScript file responsible for fetching data from the API and updating the DOM.
+- **style.css**: The CSS file that styles the app, including animations and layout.
