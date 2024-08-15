@@ -32,10 +32,10 @@ The Weather App is a simple, interactive web application built using HTML, CSS, 
 2. **API Key Setup:**
    ```bash
       Obtain an API key from OpenWeatherMap.
-     Replace the placeholder API key in index.js with your own:
-     const APIKey = 'your_api_key_here'
+      Replace the placeholder API key in index.js with your own:
+      const APIKey = 'your_api_key_here'
 
 3. **Run the Application:**
-
+   ```bash
       Open index.html in your web browser.
       Enter a city name in the input field and click the search button to retrieve the weather data.
